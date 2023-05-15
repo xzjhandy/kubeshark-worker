@@ -1,0 +1,1 @@
+FROM kubeshark/worker:latest
